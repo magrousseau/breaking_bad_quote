@@ -46,5 +46,5 @@ jobs:
         application_name: breaking_bad_quote
         environment_name: breaking_bad_quote-dev
         version_label: ${{github.run_id}}
-        region: us-west-3
+        region: eu-west-3
         deployment_package: deploy.zip
